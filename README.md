@@ -14,6 +14,8 @@ There are existing ones out there:
 BTC Miner in Browser
 ------------------
 
+There are existing ones out there:
+
 * [http://www.bitcoinplus.com/miner/embeddable](http://www.bitcoinplus.com/miner/embeddable)
 
 Multiplayer game using Meteor.js
