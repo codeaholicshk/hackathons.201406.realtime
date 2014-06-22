@@ -21,7 +21,4 @@ There are existing ones out there:
 Multiplayer game using Meteor.js
 ------------------
 
-
-
-Stock Data Analysis
-------------------
+* [https://github.com/owyongsk/chu_chu_rocket](https://github.com/owyongsk/chu_chu_rocket)
